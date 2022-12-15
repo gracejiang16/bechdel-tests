@@ -1,0 +1,13 @@
+Alpha: Alpha has 4 actors.
+Beta: Beta has 4 actors.
+Gamma: Gamma has 2 actors.
+creating new movie: Hunger Games
+testing getActors() for movie1, expect Jennifer, Liam, got: [Liam Hemsworth, Jennifer Lawrence]
+testing get/setTestResults(), expect 1,1,1,1,1,1,1,1,1,1,1,1,1, got: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+testing toString(), expect Hunger Games has 2 actors, got: Hunger Games has 2 actors.
+testing equals, expect true, got: true
+changing movie2 title to Shrek using setTitle()
+testing getTitle(), expect Shrek, got: Shrek
+testing equals, expect false, got: false
+Movie1's getAllActors(), expect Jennifer, Liam, got: [Liam Hemsworth, Jennifer Lawrence]
+Testing feministScore(), expect 87, got: 174

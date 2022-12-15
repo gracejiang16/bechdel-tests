@@ -1,0 +1,289 @@
+This MovieCollection contains 50 movies. They are: 
+Bad Moms
+Hidden Figures
+Independence Day: Resurgence
+Finding Dory
+Ghostbusters
+The Divergent Series: Allegiant
+Arrival
+Ice Age: Collision Course
+Kung Fu Panda 3
+Miss Peregrine's Home for Peculiar Children
+Sing
+The Boss
+The Girl on the Train
+Boo! A Madea Halloween
+Alice Through the Looking Glass
+Fantastic Beasts and Where to Find Them
+La La Land
+Now You See Me 2
+Passengers
+Pete's Dragon
+Sausage Party
+Storks
+Suicide Squad
+The Conjuring 2: The Enfield Poltergeist
+The Purge: Election Year
+X-Men: Apocalypse
+10 Cloverfield Lane
+Batman v Superman: Dawn of Justice
+Captain America: Civil War
+Central Intelligence
+Don't Breathe
+Hacksaw Ridge
+Lights Out
+Moana
+Ride Along 2
+Star Trek Beyond
+Sully
+Teenage Mutant Ninja Turtles: Out of the Shadows
+The Angry Birds Movie
+The Magnificent Seven
+Trolls
+Zootopia
+Jason Bourne
+Rogue One: A Star Wars Story
+The Accountant
+The Jungle Book
+The Legend of Tarzan
+Deadpool
+Doctor Strange
+The Secret Life of Pets
+
+
+
+**************testing findAllMoviesPassedTestNum(2)**************
+Testing findAllMoviesPassedTestNum(2), expect 33, got: 
+There are 33 movies that pass test#2-landau:
+Independence Day: Resurgence
+Finding Dory
+The Divergent Series: Allegiant
+Arrival
+Sing
+The Girl on the Train
+Boo! A Madea Halloween
+Alice Through the Looking Glass
+Fantastic Beasts and Where to Find Them
+La La Land
+Pete's Dragon
+Sausage Party
+Storks
+Suicide Squad
+The Conjuring 2: The Enfield Poltergeist
+The Purge: Election Year
+10 Cloverfield Lane
+Batman v Superman: Dawn of Justice
+Captain America: Civil War
+Central Intelligence
+Don't Breathe
+Lights Out
+Moana
+Star Trek Beyond
+Trolls
+Zootopia
+Jason Bourne
+Rogue One: A Star Wars Story
+The Accountant
+The Legend of Tarzan
+Deadpool
+Doctor Strange
+The Secret Life of Pets
+
+
+**************testing findAllMoviesPassedBechdel()**************
+Testing findAllMoviesPassedBechdel(), expect 18, got: 
+There are 18 movies that pass test#0-bechdel:
+Now You See Me 2
+Passengers
+Storks
+Batman v Superman: Dawn of Justice
+Central Intelligence
+Hacksaw Ridge
+Ride Along 2
+Star Trek Beyond
+Sully
+The Angry Birds Movie
+The Magnificent Seven
+Jason Bourne
+The Accountant
+The Jungle Book
+The Legend of Tarzan
+Deadpool
+Doctor Strange
+The Secret Life of Pets
+
+
+**************testing findAllMoviesPassedPierceOrLandau()**************
+Testing findAllMoviesPassedPierceOrLandau(), expect 40, got: 
+There are 40 movies that pass pierce or landau:
+Independence Day: Resurgence
+Finding Dory
+The Divergent Series: Allegiant
+Arrival
+Ice Age: Collision Course
+Kung Fu Panda 3
+Sing
+The Girl on the Train
+Boo! A Madea Halloween
+Alice Through the Looking Glass
+Fantastic Beasts and Where to Find Them
+La La Land
+Pete's Dragon
+Sausage Party
+Storks
+Suicide Squad
+The Conjuring 2: The Enfield Poltergeist
+The Purge: Election Year
+10 Cloverfield Lane
+Batman v Superman: Dawn of Justice
+Captain America: Civil War
+Central Intelligence
+Don't Breathe
+Hacksaw Ridge
+Lights Out
+Moana
+Star Trek Beyond
+Sully
+Teenage Mutant Ninja Turtles: Out of the Shadows
+The Angry Birds Movie
+Trolls
+Zootopia
+Jason Bourne
+Rogue One: A Star Wars Story
+The Accountant
+The Jungle Book
+The Legend of Tarzan
+Deadpool
+Doctor Strange
+The Secret Life of Pets
+
+
+**************testing findAllMoviesPassedWhiteFailedRD()**************
+Testing findAllMoviesPassedWhiteFailedRD(), expect 15, got: 
+There are 15 movies that pass white, fail reese-davies:
+Finding Dory
+Ice Age: Collision Course
+Kung Fu Panda 3
+Sing
+Alice Through the Looking Glass
+Pete's Dragon
+Sausage Party
+Storks
+Suicide Squad
+Batman v Superman: Dawn of Justice
+Captain America: Civil War
+Hacksaw Ridge
+Star Trek Beyond
+Jason Bourne
+Doctor Strange
+
+
+Testing getMovieTitles(), got: 50 titles.
+
+
+Testing getActorNames(), got: 1955 actors.
+
+
+Bad Moms has a feminist score of 74
+Hidden Figures has a feminist score of 80
+Independence Day: Resurgence has a feminist score of 70
+Finding Dory has a feminist score of 98
+Ghostbusters has a feminist score of 100
+The Divergent Series: Allegiant has a feminist score of 102
+Arrival has a feminist score of 104
+Ice Age: Collision Course has a feminist score of 140
+Kung Fu Panda 3 has a feminist score of 136
+Miss Peregrine's Home for Peculiar Children has a feminist score of 114
+Sing has a feminist score of 116
+The Boss has a feminist score of 120
+The Girl on the Train has a feminist score of 104
+Boo! A Madea Halloween has a feminist score of 104
+Alice Through the Looking Glass has a feminist score of 126
+Fantastic Beasts and Where to Find Them has a feminist score of 118
+La La Land has a feminist score of 120
+Now You See Me 2 has a feminist score of 122
+Passengers has a feminist score of 124
+Pete's Dragon has a feminist score of 134
+Sausage Party has a feminist score of 128
+Storks has a feminist score of 118
+Suicide Squad has a feminist score of 128
+The Conjuring 2: The Enfield Poltergeist has a feminist score of 120
+The Purge: Election Year has a feminist score of 118
+X-Men: Apocalypse has a feminist score of 130
+10 Cloverfield Lane has a feminist score of 132
+Batman v Superman: Dawn of Justice has a feminist score of 130
+Captain America: Civil War has a feminist score of 142
+Central Intelligence has a feminist score of 122
+Don't Breathe has a feminist score of 138
+Hacksaw Ridge has a feminist score of 154
+Lights Out has a feminist score of 138
+Moana has a feminist score of 136
+Ride Along 2 has a feminist score of 140
+Star Trek Beyond has a feminist score of 134
+Sully has a feminist score of 150
+Teenage Mutant Ninja Turtles: Out of the Shadows has a feminist score of 156
+The Angry Birds Movie has a feminist score of 148
+The Magnificent Seven has a feminist score of 136
+Trolls has a feminist score of 138
+Zootopia has a feminist score of 132
+Jason Bourne has a feminist score of 148
+Rogue One: A Star Wars Story has a feminist score of 150
+The Accountant has a feminist score of 142
+The Jungle Book has a feminist score of 166
+The Legend of Tarzan has a feminist score of 138
+Deadpool has a feminist score of 170
+Doctor Strange has a feminist score of 174
+The Secret Life of Pets has a feminist score of 156
+
+
+Testing rankMovies(): 
+Doctor Strange's score: 174; passed tests: 12
+Deadpool's score: 170; passed tests: 12
+The Jungle Book's score: 166; passed tests: 11
+The Secret Life of Pets's score: 156; passed tests: 12
+Teenage Mutant Ninja Turtles: Out of the Shadows's score: 156; passed tests: 10
+Hacksaw Ridge's score: 154; passed tests: 10
+Rogue One: A Star Wars Story's score: 150; passed tests: 11
+Sully's score: 150; passed tests: 10
+Jason Bourne's score: 148; passed tests: 11
+The Angry Birds Movie's score: 148; passed tests: 10
+The Accountant's score: 142; passed tests: 11
+Captain America: Civil War's score: 142; passed tests: 10
+Ride Along 2's score: 140; passed tests: 10
+Ice Age: Collision Course's score: 140; passed tests: 8
+The Legend of Tarzan's score: 138; passed tests: 11
+Don't Breathe's score: 138; passed tests: 10
+Trolls's score: 138; passed tests: 10
+Lights Out's score: 138; passed tests: 10
+The Magnificent Seven's score: 136; passed tests: 10
+Moana's score: 136; passed tests: 10
+Kung Fu Panda 3's score: 136; passed tests: 8
+Star Trek Beyond's score: 134; passed tests: 10
+Pete's Dragon's score: 134; passed tests: 9
+10 Cloverfield Lane's score: 132; passed tests: 10
+Zootopia's score: 132; passed tests: 10
+Batman v Superman: Dawn of Justice's score: 130; passed tests: 10
+X-Men: Apocalypse's score: 130; passed tests: 9
+Suicide Squad's score: 128; passed tests: 9
+Sausage Party's score: 128; passed tests: 9
+Alice Through the Looking Glass's score: 126; passed tests: 9
+Passengers's score: 124; passed tests: 9
+Central Intelligence's score: 122; passed tests: 10
+Now You See Me 2's score: 122; passed tests: 9
+The Conjuring 2: The Enfield Poltergeist's score: 120; passed tests: 9
+La La Land's score: 120; passed tests: 9
+The Boss's score: 120; passed tests: 8
+The Purge: Election Year's score: 118; passed tests: 9
+Storks's score: 118; passed tests: 9
+Fantastic Beasts and Where to Find Them's score: 118; passed tests: 9
+Sing's score: 116; passed tests: 8
+Miss Peregrine's Home for Peculiar Children's score: 114; passed tests: 8
+Boo! A Madea Halloween's score: 104; passed tests: 8
+The Girl on the Train's score: 104; passed tests: 8
+Arrival's score: 104; passed tests: 8
+The Divergent Series: Allegiant's score: 102; passed tests: 8
+Ghostbusters's score: 100; passed tests: 7
+Finding Dory's score: 98; passed tests: 7
+Hidden Figures's score: 80; passed tests: 6
+Bad Moms's score: 74; passed tests: 5
+Independence Day: Resurgence's score: 70; passed tests: 6
